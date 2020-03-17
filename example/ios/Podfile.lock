@@ -1,0 +1,36 @@
+PODS:
+  - Flutter (1.0.0)
+  - Hyphenate (3.6.5)
+  - im_flutter_sdk (0.0.1):
+    - Flutter
+    - Hyphenate (~> 3.6.4)
+  - rtc_flutter_sdk (0.0.1):
+    - Flutter
+    - Hyphenate
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - im_flutter_sdk (from `.symlinks/plugins/im_flutter_sdk/ios`)
+  - rtc_flutter_sdk (from `.symlinks/plugins/rtc_flutter_sdk/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Hyphenate
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  im_flutter_sdk:
+    :path: ".symlinks/plugins/im_flutter_sdk/ios"
+  rtc_flutter_sdk:
+    :path: ".symlinks/plugins/rtc_flutter_sdk/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  Hyphenate: de934686fa85bc436175a8c1b087bda40a5164d0
+  im_flutter_sdk: a085af1fa3d0d05463762933e915d2741b11326d
+  rtc_flutter_sdk: f8fc5322938c5f0d6a54e6865e567909bfeea478
+
+PODFILE CHECKSUM: 49ec7d4076524b7e225c38b98147173651ac4b9d
+
+COCOAPODS: 1.9.1
